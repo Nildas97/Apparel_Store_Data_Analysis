@@ -3,13 +3,13 @@ Interactive dashboard creation using Excel
 
 ## Dashboard 
 
-
-
+- <a href="https://github.com/Nildas97/Apparel_Store_Data_Analysis/blob/4e2c7012bb1f722e295c7e4325f0ad1c96ae9ad0/dashboard.jpg">Dashboard</a>
 
 ## Business Requirements
-Vrinda store wants to create an annual sales report for 2022. so that, vrinda can understand their customers and grow more sales in 2023 and upcoming years.
+Vrinda store wants to create an annual sales report for 2022. so that, vrinda can understand their customers and grow more sales in 2023 and in upcoming years.
 
 ## Dataset
+
 - <a href="https://github.com/Nildas97/Apparel_Store_Data_Analysis/blob/4e2c7012bb1f722e295c7e4325f0ad1c96ae9ad0/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Business Questions (KPIs)
@@ -24,7 +24,7 @@ Vrinda store wants to create an annual sales report for 2022. so that, vrinda ca
 
 ## Data cleaning & processing
 1. Formatting
-	a. Number formatting for the same values in same columns.
+	a. Number formatting for the same values in the same columns.
 	b. Wrong datatypes for the wrong column.
 	c. Space or indentations issues.
 2. Duplicates
@@ -33,7 +33,7 @@ Vrinda store wants to create an annual sales report for 2022. so that, vrinda ca
 	a. Spelling and spacing consistency
     i. Check similar meaning words having different representations.
 	b. Categorization consistency
-    i. Check the column same category having different representations.
+    i. Check the column with the same category having different representations.
 4. Created pivot tables based on the business questions.
 5. Merge all pivot tables into one dashboard and apply a slicer to make it dynamic.
 
@@ -45,4 +45,3 @@ Vrinda store wants to create an annual sales report for 2022. so that, vrinda ca
 
 ## Final Conclusion
 To effectively boost sales and engagement, focus on targeting women customers within the age group of 30 to 49 years who reside in Maharashtra, Karnataka, and Uttar Pradesh. Utilize strategic platforms such as Amazon, Flipkart, and Myntra to showcase tailored advertisements, exclusive offers, and personalized discount coupons. This targeted approach will maximize reach and enhance customer acquisition in these key demographics and regions.
-
